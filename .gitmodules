@@ -1,0 +1,6 @@
+[submodule "src/cockpit_gateway"]
+	path = src/cockpit_gateway
+	url = https://github.com/rguilbeau/A320_Cockpit_gateway.git
+[submodule "src/frames"]
+	path = src/frames
+	url = https://github.com/rguilbeau/A320_Frames.git
